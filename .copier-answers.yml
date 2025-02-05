@@ -1,0 +1,10 @@
+_commit: v0.4.38
+_src_path: git@github.com:tschm/package.git
+description: Demo for qcradle
+gh_create: gh repo create tschm/demo_qcradle --public --description 'Demo for qcradle'
+page: https://tschm.github.io/demo_qcradle
+project_name: demo_qcradle
+repository: https://github.com/tschm/demo_qcradle
+ssh_uri: git@github.com:tschm/demo_qcradle.git
+status: public
+username: tschm
